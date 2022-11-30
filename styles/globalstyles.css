@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@300;600&display=swap');
+
+*{
+    max-width: 100%;
+    margin: 0 auto;
+    font-family: Inter;
+    text-decoration: none;
+    list-style-type: none
+}
+
+:root{
+    --color-background-header:#212529;
+    --color-text-location:#495057;;
+    --color-white:white;
+    --color-black:black;
+    --color-background-aplication:#E9ECEF;
+    --color-descriptiontitle-header: rgba(255, 255, 255, 0.8);
+    --color-background-tags:rgba(77, 82, 211, 0.1);
+    --color-text-tags:#4D52D3;
+}
+
