@@ -1,0 +1,22 @@
+
+li {
+    background-color: var(--color-white);
+  }
+  
+  .icon {
+    background-color: var(--color-black);
+    color: var(--color-white);
+  }
+  
+  
+  .dev-location h4 {
+    color: var(--color-background-header);
+    color: var(--color-text-location);
+  }
+  
+  h5 {
+    color: var(--color-text-location);
+  }
+  
+  
+  

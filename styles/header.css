@@ -1,0 +1,40 @@
+header {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-background-header);
+    height: 387px;
+  }
+  
+  header h1 {
+    font-family: "Inter", sans-serif;
+    font-family: "Poppins", sans-serif;
+    margin-top: 42px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    color: var(--color-background-aplication);
+  }
+  
+  header span {
+    font-family: "Inter", sans-serif;
+    font-family: "Poppins", sans-serif;
+    margin-top: 42px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    color: var(--color-text-tags);
+  }
+  
+  header h2 {
+    margin-top: 16px;
+    margin-bottom: 41px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: var(--color-descriptiontitle-header);
+  }
+  

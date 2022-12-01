@@ -1,0 +1,8 @@
+@media(min-width:900px){
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+  }
+  }
+  
+  

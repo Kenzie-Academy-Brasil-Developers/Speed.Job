@@ -1,0 +1,77 @@
+.title-jobs {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    margin-left: 22px;
+  }
+
+  li {
+    width: 347px;
+    height: 240px;
+    border-radius: 10px;
+    margin-bottom: 64px;
+    margin-right: 14px;
+  }
+  
+
+  .icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 42px;
+    height: 42px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    border-radius: 50%;
+  }
+
+  .dev-front {
+    display: flex;
+    margin-top: 37px;
+    align-items: center;
+    justify-content: space-between;
+    width: 350px;
+  }
+
+  .dev-location {
+    margin-right: 74px;
+  }
+
+  .dev-location h3 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+  .dev-location h4 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+  }
+
+  h5 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    color: var(--color-text-location);
+    padding: 16px;
+  }
+
+  ul {
+    display: flex;
+    overflow-y: scroll;
+  }
